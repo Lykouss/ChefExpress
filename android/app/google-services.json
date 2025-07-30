@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126928532943",
+    "project_id": "geladeira-inteligente-app",
+    "storage_bucket": "geladeira-inteligente-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126928532943:android:71cc77dc1969eb66718eba",
+        "android_client_info": {
+          "package_name": "com.example.chef_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfx61MnWKJY_2SVjgOYufHWYlXBIgwrns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126928532943:android:8d5e7277d9252330718eba",
+        "android_client_info": {
+          "package_name": "com.example.geladeira_inteligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfx61MnWKJY_2SVjgOYufHWYlXBIgwrns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
